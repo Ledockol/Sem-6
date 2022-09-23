@@ -1,0 +1,15 @@
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\bin\Debug\net6.0\HomeWork43.exe
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\bin\Debug\net6.0\HomeWork43.deps.json
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\bin\Debug\net6.0\HomeWork43.runtimeconfig.json
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\bin\Debug\net6.0\HomeWork43.dll
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\bin\Debug\net6.0\HomeWork43.pdb
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\obj\Debug\net6.0\HomeWork43.csproj.AssemblyReference.cache
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\obj\Debug\net6.0\HomeWork43.GeneratedMSBuildEditorConfig.editorconfig
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\obj\Debug\net6.0\HomeWork43.AssemblyInfoInputs.cache
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\obj\Debug\net6.0\HomeWork43.AssemblyInfo.cs
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\obj\Debug\net6.0\HomeWork43.csproj.CoreCompileInputs.cache
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\obj\Debug\net6.0\HomeWork43.dll
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\obj\Debug\net6.0\refint\HomeWork43.dll
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\obj\Debug\net6.0\HomeWork43.pdb
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\obj\Debug\net6.0\HomeWork43.genruntimeconfig.cache
+C:\SemC#5\Sem#6\Sem-6\HomeWork43\obj\Debug\net6.0\ref\HomeWork43.dll
